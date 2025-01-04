@@ -18,3 +18,5 @@ django-admin startapp api
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+
+pip install django-cors-headers
